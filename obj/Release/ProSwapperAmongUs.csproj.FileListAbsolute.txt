@@ -1,0 +1,9 @@
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Release\Pro Swapper Among Us.exe.config
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Release\Pro Swapper Among Us.exe
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Release\Pro Swapper Among Us.pdb
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Release\ProSwapperAmongUs.csprojAssemblyReference.cache
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Release\ProSwapper.Dashboard.resources
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Release\ProSwapperAmongUs.csproj.GenerateResource.cache
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Release\ProSwapperAmongUs.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Release\Pro Swapper Among Us.exe
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Release\Pro Swapper Among Us.pdb

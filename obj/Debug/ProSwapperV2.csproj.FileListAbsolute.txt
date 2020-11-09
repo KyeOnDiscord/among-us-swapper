@@ -1,0 +1,101 @@
+C:\Users\ProMa\source\repos\ProSwapperV2\bin\Debug\Pro Swapper.exe.config
+C:\Users\ProMa\source\repos\ProSwapperV2\bin\Debug\Pro Swapper.exe
+C:\Users\ProMa\source\repos\ProSwapperV2\bin\Debug\Pro Swapper.pdb
+C:\Users\ProMa\source\repos\ProSwapperV2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ProMa\source\repos\ProSwapperV2\bin\Debug\DiscordRPC.dll
+C:\Users\ProMa\source\repos\ProSwapperV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.emoteswap.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.Other.Plugins.ItemSearcher.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.splash.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.defaultaxecalibur.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.defaultcrow.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.defaultogpick.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.psi.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.defaultinvispick.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.goldcrow.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.icebreaker.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.quarterstaff.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.picksqueak.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.defaultcandy.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.resonator.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.vision.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.trusty.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.studdedaxe.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.starwand.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.spiky.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.skull.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.reaper.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.raiderswap2.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.raidersrevenge.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.pinkflamingo.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.minty.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.icicle.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.harley.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.galaxyaxe.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.frozenraid.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.driver.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.diamond.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.candyaxe.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.bootstraps.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.axeoc.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.axecalibur.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.Other.Plugins.Plugins.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.redlinerenegade.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.frozenrenegade.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.acdc.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.UI.Dashboard.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Main.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.redshieldswapoption.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Properties.Other.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.UI.SettingsForm.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.revengeswap.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.blackshieldswapoption.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.UI.ThemeCreator.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Properties.Resources.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.csproj.GenerateResource.cache
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.csproj.CopyComplete
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\Pro Swapper.exe
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\Pro Swapper.pdb
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Forms.newswap.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Properties.Backblings2.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Properties.Pickaxes2.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.Properties.Skins2.resources
+C:\Users\ProMa\source\repos\ProSwapperV2\obj\Debug\ProSwapperV2.csprojAssemblyReference.cache
+C:\Users\ProMa\source\repos\ProSwapperNew\bin\Debug\Pro Swapper.exe.config
+C:\Users\ProMa\source\repos\ProSwapperNew\bin\Debug\Pro Swapper.exe
+C:\Users\ProMa\source\repos\ProSwapperNew\bin\Debug\Pro Swapper.pdb
+C:\Users\ProMa\source\repos\ProSwapperNew\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ProMa\source\repos\ProSwapperNew\bin\Debug\DiscordRPC.dll
+C:\Users\ProMa\source\repos\ProSwapperNew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Forms.newswap.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Properties.Backblings2.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Properties.Pickaxes2.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Properties.Skins2.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Forms.UI.Dashboard.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Main.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Properties.Other.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Forms.UI.SettingsForm.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.blackshieldswapoption.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Properties.Resources.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.csproj.GenerateResource.cache
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.csproj.CopyComplete
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\Pro Swapper.exe
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\Pro Swapper.pdb
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.Forms.Other.splash.resources
+C:\Users\ProMa\source\repos\ProSwapperNew\obj\Debug\ProSwapperV2.csprojAssemblyReference.cache
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.Forms.UI.Dashboard.resources
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.Main.resources
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.Forms.UI.SettingsForm.resources
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.Properties.Resources.resources
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.csproj.GenerateResource.cache
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Debug\Pro Swapper Among Us.exe.config
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Debug\Pro Swapper Among Us.exe
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Debug\Pro Swapper Among Us.pdb
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.csproj.CopyComplete
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\Pro Swapper Among Us.exe
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\Pro Swapper Among Us.pdb
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.Maps.resources
+C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperV2.csprojAssemblyReference.cache

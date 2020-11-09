@@ -24,12 +24,15 @@ namespace ProSwapper
             int nHeightEllipse // height of ellipse
         );
         public static Icon appIcon = Icon.ExtractAssociatedIcon(Assembly.GetExecutingAssembly().Location);
-        public static readonly string AmongUsDataFolder = Path.GetDirectoryName(Settings.Default.GameLocation) + @"\Among Us_Data\";
+        public static string AmongUsDataFolder { get; set; }
         public Main()
         {
             InitializeComponent();
             this.Icon = appIcon;
             Region = Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 30, 30));
+
+            if (Settings.Default.GameLocation.Contains("Among Us.exe"))
+            AmongUsDataFolder = Path.GetDirectoryName(Settings.Default.GameLocation) + @"\Among Us_Data\";
         }
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
