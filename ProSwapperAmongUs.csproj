@@ -208,10 +208,5 @@
   <ItemGroup>
     <Content Include="ProSwapperIcon.ico" />
   </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Forms\UI\Dashboard.resx">
-      <DependentUpon>Dashboard.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

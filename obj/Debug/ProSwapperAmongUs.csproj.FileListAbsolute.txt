@@ -1,8 +1,0 @@
-C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Debug\Pro Swapper Among Us.exe.config
-C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Debug\Pro Swapper Among Us.exe
-C:\Users\ProMa\source\repos\ProSwapperAmongUs\bin\Debug\Pro Swapper Among Us.pdb
-C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperAmongUs.csproj.CoreCompileInputs.cache
-C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\Pro Swapper Among Us.exe
-C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\Pro Swapper Among Us.pdb
-C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapper.Dashboard.resources
-C:\Users\ProMa\source\repos\ProSwapperAmongUs\obj\Debug\ProSwapperAmongUs.csproj.GenerateResource.cache

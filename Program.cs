@@ -50,7 +50,7 @@ namespace ProSwapper
                 Program.Cleanup();
             }
             string ver = Assembly.GetExecutingAssembly().GetName().Version.ToString();
-            string version = ver.Substring(2, ver.Length - 2);
+            version = ver.Substring(2, ver.Length - 2);
             if (!apidata.Contains(version))
             {
                 DialogResult result = MessageBox.Show("You do not have the latest version of Pro Swapper. (" + apidata.Split('|')[1] + ") Do you want to be directed to the new download link?", "Pro Swapper Update Alert!", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
