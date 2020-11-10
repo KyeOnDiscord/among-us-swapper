@@ -40,6 +40,7 @@ namespace ProSwapper
                 Settings.Default.GameLocation = a.FileName;
                 Settings.Default.Save();
                 paksBox.Text = a.FileName;
+                Main.AmongUsDataFolder = Path.GetDirectoryName(Settings.Default.GameLocation) + @"\Among Us_Data\";
             }
         }
 

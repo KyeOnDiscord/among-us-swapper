@@ -159,6 +159,7 @@ namespace ProSwapper
                 File.Delete("temp.pro");
                 Settings.Default.GameLocation = @"Among_Us_Installed\Among Us.exe";
                 Settings.Default.Save();
+                AmongUsDataFolder = Path.GetDirectoryName(Settings.Default.GameLocation) + @"\Among Us_Data\";
                 MessageBox.Show("Installed Among Us 2020.10.22!", "Pro Swapper Among Us", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
